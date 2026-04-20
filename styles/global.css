@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --font-asap: "Asap", sans-serif;
+  --font-inconsolata: "Inconsolata", monospace;
+  --font-maven: "Maven Pro", sans-serif;
+  --font-family: var(--font-asap);
+  --font-family: var(--font-maven);
+  --icon-color: #C0C4CE;
+
+  /* Intro */
+  --text-info: #878EA1;
+  --text-subtitle: #C0C4CE;
+  --text-info-my-name: #E3646E;
+  --text-lg-title: #E2E4E9;
+  --text-description: #878EA1;
+
+  /* Tags */
+  --gitHub-color: #C0C4CE;
+  --html-color: #E3646E;
+  --css-color: #3996DB;
+  --js-color: #EABD5F;
+  --react-color: #3996DB;
+  --node-color: #82BC4F;
+
+  /* Tags font color*/
+  --tags-color: #C0C4CE;
+
+  /* Project */
+  --text-project-my-work: #E3646E;
+  --text-md-project: #E2E4E9;
+  --project-grid-projectCard1-title: #E2E4E9;
+  --project-grid-projectCard-description: #C0C4CE;
+
+  /* Services */
+  --services-subtitle: #E3646E;
+  --services-description: #E2E4E9;
+  --service-device-icon: #BB72E9;
+  --service-hardDrives-icon: #EABD5F;
+  --service-devOps-icon: #82BC4F;
+
+  --services-grid-card-title: #E2E4E9;
+  --services-grid-card-subtitle: #C0C4CE;
+
+  /* Contact */
+  --contact-text-subtitle: #BB72E9;
+  --contact-text-ask: #E2E4E9;
+  --contact-text-direction: #C0C4CE;
+
+  /* arrowUpRight */
+  --arrow-icon: #3996DB;
+
+  /* social media icons */
+  --social-media-icon: #FFFFFF;
+
+  /* Links */
+  --links-text: #C0C4CE;
+
+  --title-lg: 800 56px/120% var(--font-family);
+  --title-md: 800 24px/120% var(--font-family);
+  --title-sm: 800 16px/120% var(--font-family);
+  --subtitle: 400 20px/120% var(--font-family);
+  --text-md: 400 16px/140% var(--font-family);
+  --text-sm: 400 14px/140% var(--font-family);
+}
+
+body {
+  background-color: #1E1E1E;
+
+}

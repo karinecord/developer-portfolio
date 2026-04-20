@@ -1,0 +1,13 @@
+.project {
+  position: relative;
+  width: 1526px;
+  height: 3088px;
+
+  left: -12px;
+  top: 12px;
+  margin: 80px auto;
+  padding: 80px;
+
+  background: #29292E;
+  border-radius: 40px;
+}
